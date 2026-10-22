@@ -40,6 +40,7 @@ FDO community, we encourage you to add yourself to this list.
 | Organization / Project | Use Case                     | Adoption Stage        | Since | Contact      | Website               |
 |------------------------|------------------------------|-----------------------|-------|--------------|-----------------------|
 | Example Organization   | FDO interoperability testing | Development / Testing | 2026  | @github-user | <https://example.com> |
+| Open Horizon | Edge device onboarding to Open Horizon management hubs; currently supports FDO specification version 1.x using the Java SDK, with remote and self-hosted rendezvous server instances | Production | 2020 | @joewxboy or @dlarson04 | [LF Edge Open Horizon](https://lfedge.org/projects/open-horizon/) |
 
 ### Adoption stages
 
